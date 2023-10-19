@@ -3,7 +3,7 @@
 We are a group of individuals who promote diversity and openness within events and strive to make organizers’ jobs easier and more enjoyable.
 
 - :open_book: Docs: [docs.ethevents.club](https://docs.ethevents.club/)
-- 🗨️ Forum: [ethevens.club](https://ethevents.club)
+- 🗨️ Forum: [ethevents.club](https://ethevents.club)
 - :bird: 𝕏/Twitter: [@EthereumEG](https://twitter.com/EthereumEG) | 🟣 Farcaster: [@eeg](https://warpcast.com/eeg)
 - :speech_balloon: Telegram: [t.me/EthereumEG](https://t.me/EthereumEG) | 🌐 Matrix: [#ethereumeg:gwei.cz](https://matrix.to/#/#ethereumeg:gwei.cz)
 
